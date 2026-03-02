@@ -1,2 +1,5 @@
 # The_Nocturnals
-This is where we will be putting our idea into software
+Introduction
+Scope and purpose of document (MC, DC, MD)
+The information that is enclosed in this document will be the function this app will provide. On top of that, it will include who is working on the project and how all of the projects will be made on time. This is so that we may document what we do on our project and document its progress. This will also include and not limited to debugging, testing, errors, time it has been worked in class, time worked outside of class.
+The purpose of this project is to find a way for people to fall asleep while waking up with a full night's rest every night. We want them to track how they sleep while also maintaining a healthy routine to keep their sleep schedule on track to start their next day with full energy. After reading this introduction, you the reading will understand care functions of the app, which are, the alarm feature, the routine feature, the sleep track feature, the Zen-music feature, and the meditation tips feature, alongside compatibility with smart watches as well.
